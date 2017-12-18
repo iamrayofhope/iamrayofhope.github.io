@@ -21,7 +21,7 @@ layout: page
 <p>Please Donate, Volunteer or Sponsor Non-profit organisations and contribute towards a better society in whatever way you are able to. List of few organisations:  <a href="http://naammh.org/about-us/" target="_blank">Naam Foundation,</a>
 							<a href="https://www.pmnrf.gov.in/payform.php" target="_blank"> Pradhan Mantri National Relief Fund,</a>
 							<a href="http://www.indiancancersociety.org/how-you-can-help/donate.aspx" target="_blank"> Indian Cancer Society,</a>
-							<a href="alfaa.org" target="_blank"> Alfaa,</a> 
+							<a href="http://alfaa.org" target="_blank"> Alfaa,</a> 
 							<a href="http://www.idrf.org/ngo-manav-seva-sansthan/" target="_blank"> IDRF.</a>
 </p>
 
