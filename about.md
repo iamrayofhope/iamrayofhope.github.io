@@ -4,23 +4,23 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi !</p>
+<h1>Who am I ?</h1> 
+<br>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Myself, Himanshu Ray, a final year undergrad with a Bachelor of Technology (B.Tech.) focused in Computer Science from Asansol Engineering College.</p>
+
+<br>
+
+<h1>What I hope to achieve in life ?</h1>
+<br>
+<p>To have succeeded in life, Ralph Waldo Emerson once said, includes having "left the world a bit better, whether by a healthy child, a garden patch or a redeemed social condition"; I hope to leave the world a bit better by my writing and my work.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
+	<li>C</li>
+	<li>Java</li>
 	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
@@ -33,14 +33,12 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 	<li>PHP</li>
 	<li>Python</li>
 	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">RGB2Grayscale Image Converter</a></li>
 	<li><a href="https://github.com/">Ipsum Dolor</a></li>
 	<li><a href="https://github.com/">Dolor Lorem</a></li>
 </ul>
