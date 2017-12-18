@@ -18,11 +18,11 @@ layout: page
 <p>To have succeeded in life, Ralph Waldo Emerson once said, includes having "left the world a bit better, whether by a healthy child, a garden patch or a redeemed social condition", I hope to leave the world a bit better by my work, my behaviour and my writing.</p>
 
 <h2>You want to do something better?</h2>
-<p>Please Donate, Volunteer or Sponsor Non-profit organisations and contribute towards a better society in whatever way you are able to. List of few organisations:  <a href="http://naammh.org/about-us/">Naam Foundation,</a>
-							<a href="https://www.pmnrf.gov.in/payform.php"> Pradhan Mantri National Relief Fund,</a>
-							<a href="http://www.indiancancersociety.org/how-you-can-help/donate.aspx"> Indian Cancer Society,</a>
-							<a href="alfaa.org"> Alfaa.org,</a> 
-							<a href="http://www.idrf.org/ngo-manav-seva-sansthan/"> IDRF.</a>
+<p>Please Donate, Volunteer or Sponsor Non-profit organisations and contribute towards a better society in whatever way you are able to. List of few organisations:  <a href="http://naammh.org/about-us/" target="_blank">Naam Foundation,</a>
+							<a href="https://www.pmnrf.gov.in/payform.php" target="_blank"> Pradhan Mantri National Relief Fund,</a>
+							<a href="http://www.indiancancersociety.org/how-you-can-help/donate.aspx" target="_blank"> Indian Cancer Society,</a>
+							<a href="alfaa.org" target="_blank"> Alfaa.org,</a> 
+							<a href="http://www.idrf.org/ngo-manav-seva-sansthan/" target="_blank"> IDRF.</a>
 </p>
 
 <h2>Skills</h2>
