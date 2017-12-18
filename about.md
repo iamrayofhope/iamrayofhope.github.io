@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<hh2>Who am I ?</h2>
+<h2>Who am I ?</h2>
 <p>Myself, Himanshu Ray, a final year undergrad with a Bachelor of Technology (B.Tech.) focused in Computer Science from Asansol Engineering College.</p>
 
 <h2>What I hope to achieve in life ?</h2>
