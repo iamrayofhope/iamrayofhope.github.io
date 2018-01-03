@@ -26,11 +26,12 @@ There are many algorithms available for converting a RGB image to Grayscale imag
 
 The algorithm i have used in this project is the Average one.
 
-What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels.
+What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels. </p>
 
+```
                      [ R(value)+G(value)+B(Blue)] / 3]
-                     
-Since we converted all the pixels of this Image to its Grayscale shade.
+```                     
+<p>Since we converted all the pixels of this Image to its Grayscale shade.
 
 Now will have to just make a copy of the Grayscale version of the image and we have to store it.
 
@@ -38,5 +39,5 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 
 This was all about the project.
 
-Thank you :) <p>
+Thank you :) </p>
 
