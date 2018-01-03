@@ -2,17 +2,16 @@
 published: true
 title: "RGB2Grayscale Converter"
 layout: post
-date: 2017-01-03 16:28
-image: /assets/images/markdown.jpg
-headerImage: false
-tag:
-- markdown
-- components
-- extra
+date: 2017-01-03 16:37
+tag: Grayscale
+image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
+headerImage: true
 projects: true
-author: jamesfoster
-description: Markdown summary with different options
-# jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
+hidden: true # don't count this post in blog pagination
+description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+category: project
+author: Himanshu Ray
+externalLink: false
 ---
 ## RGB2Grayscale Converter
 
