@@ -2,14 +2,14 @@
 published: true
 title: "RGB2Grayscale Converter"
 layout: post
-date: 2016-02-24 22:48
+date: 2017-01-03 16:28
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
 - components
 - extra
-category: blog
+category: projects
 author: jamesfoster
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
