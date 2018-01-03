@@ -1,7 +1,5 @@
 ---
-published: false
----
----
+published: true
 title: "RGB2Grayscale Converter"
 layout: post
 date: 2016-02-24 22:48
