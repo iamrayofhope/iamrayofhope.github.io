@@ -4,11 +4,10 @@ title: "RGB2Grayscale Converter"
 layout: post
 date: 2017-01-03 16:37
 tag: Grayscale
-image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "This is a simple gui java project for image manipulation"
 category: project
 author: Himanshu Ray
 externalLink: false
