@@ -14,7 +14,7 @@ externalLink: false
 ---
 ## RGB2Grayscale Converter
 
-A simple java project to convert a RGB image to its Grayscale version using Swing.
+<p>A simple java project to convert a RGB image to its Grayscale version using Swing.
 
 This Project was made using Eclipse Java Neon IDE. It is a very basic Java Gui application to Convert a RGB image to Grayscale version.
 
@@ -38,4 +38,5 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 
 This was all about the project.
 
-Thank you :)
+Thank you :) <p>
+
