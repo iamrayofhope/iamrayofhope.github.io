@@ -14,7 +14,7 @@ externalLink: false
 ---
 ## RGB2Grayscale Converter
 
-<p>A simple java project to convert a RGB image to its Grayscale version using Swing.<br>
+<p>A simple java project to convert a RGB image to its Grayscale version using Swing.
 
 This Project was made using Eclipse Java Neon IDE. It is a very basic Java Gui application to Convert a RGB image to Grayscale version.
 
@@ -27,12 +27,11 @@ There are many algorithms available for converting a RGB image to Grayscale imag
 
 The algorithm i have used in this project is the Average one.
 
-What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels.
+What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels. </p>
 
 ```
                      [ R(value)+G(value)+B(Blue)] / 3]
 ```
-</p>
 <p>Since we converted all the pixels of this Image to its Grayscale shade.
 
 Now will have to just make a copy of the Grayscale version of the image and we have to store it.
