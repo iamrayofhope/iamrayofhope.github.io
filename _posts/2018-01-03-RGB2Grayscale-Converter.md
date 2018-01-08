@@ -38,6 +38,11 @@ Now will have to just make a copy of the Grayscale version of the image and we h
 
 This grayscale image of the verion will be simply shown as a output on user Screen using Jframe class.
 
-This was all about the project.
+This was all about the project.</p>
+
+Screenshots :
+<img class="image" src="assets/images/SS1.jpg" alt="Alt Text">
+
+<img class="image" src="assets/images/SS2.jpg" alt="Alt Text">
 
 Thank you :) </p>
