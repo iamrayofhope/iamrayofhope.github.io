@@ -41,7 +41,7 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 This was all about the project.</p>
 
 Screenshots :
-<img class="image" src="assets/images/SS1.jpg" alt="Alt Text">
+<img class="image" src="/assets/images/SS1.jpg" alt="Alt Text">
 
 <img class="image" src="assets/images/SS2.jpg" alt="Alt Text">
 
