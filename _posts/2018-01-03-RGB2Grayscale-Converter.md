@@ -30,7 +30,7 @@ The algorithm i have used in this project is the Average one.
 What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels. </p>
 
 ```
-[ R(value)+G(value)+B(Blue)] / 3]
+	[ R(value)+G(value)+B(Blue)] / 3]
 
 ```
 <p>Since we converted all the pixels of this Image to its Grayscale shade.
@@ -47,10 +47,11 @@ For the source code land to [Github Respo](https://github.com/iamrayofhope/RGB2g
 
 To download the jar file [click here](https://github.com/iamrayofhope/RGB2grayscaleconverter/blob/master/RGB2Grayscale/RGB2Grayscale.jar)
 
-Screenshots :
+<div>Screenshots :
 <br>
+
 <img class="image" src="{{ site.url }}/assets/images/SS1.png" alt="SS 1">
 
 <img class="image" src="{{ site.url }}/assets/images/SS2.png" alt="SS 2">
-
+</div>
 Thank you :)
