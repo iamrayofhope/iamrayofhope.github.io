@@ -41,7 +41,11 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 
 This was all about the project.</p>
 
-For the source code land to [Github Respo]()
+For the source code land to [Github Respo](https://github.com/iamrayofhope/RGB2grayscaleconverter)
+
+<br>
+
+To download the jar file [click here](https://github.com/iamrayofhope/RGB2grayscaleconverter/blob/master/RGB2Grayscale/RGB2Grayscale.jar)
 
 Screenshots :
 <br>
