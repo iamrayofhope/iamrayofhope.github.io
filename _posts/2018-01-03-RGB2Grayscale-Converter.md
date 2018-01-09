@@ -41,10 +41,12 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 
 This was all about the project.</p>
 
+For the source code land to [Github Respo]()
+
 Screenshots :
 <br>
 <img class="image" src="{{ site.url }}/assets/images/SS1.png" alt="SS 1">
 
 <img class="image" src="{{ site.url }}/assets/images/SS2.png" alt="SS 2">
 
-Thank you :) </p>
+Thank you :)
