@@ -31,7 +31,6 @@ What we have to do is to Simply Get the RGB values of each Pixel in the image an
 
 ```
 	[ R(value)+G(value)+B(Blue)] / 3]
-
 ```
 <p>Since we converted all the pixels of this Image to its Grayscale shade.
 
@@ -41,17 +40,14 @@ This grayscale image of the verion will be simply shown as a output on user Scre
 
 This was all about the project.</p>
 
-For the source code land to [Github Respo](https://github.com/iamrayofhope/RGB2grayscaleconverter)
+For the source code land to <a href="https://github.com/iamrayofhope/RGB2grayscaleconverter" target="_blank"> Github Respo</a>
 
-<br>
+To download the jar file <a href="https://github.com/iamrayofhope/RGB2grayscaleconverter/blob/master/RGB2Grayscale/RGB2Grayscale.jar" target="_blank"> Github Respo</a>
 
-To download the jar file [click here](https://github.com/iamrayofhope/RGB2grayscaleconverter/blob/master/RGB2Grayscale/RGB2Grayscale.jar)
-
-<div>Screenshots :
-<br>
+Screenshots :
 
 <img class="image" src="{{ site.url }}/assets/images/SS1.png" alt="SS 1">
 
 <img class="image" src="{{ site.url }}/assets/images/SS2.png" alt="SS 2">
-</div>
+
 Thank you :)
