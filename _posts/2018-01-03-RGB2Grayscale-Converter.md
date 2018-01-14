@@ -29,8 +29,7 @@ The algorithm I have used in this project is the Average one.
 What we have to do is to Simply Get the RGB values of each Pixel in the image and then calculate the average of these pixels. </p>
 
 ```
-	[ R(value)+G(value)+B(Blue)] / 3]
-
+		[ ( R(value) + G(value) + B(Blue) ) / 3 ]
 ```
 <p>Since we converted all the pixels of this Image to its Grayscale shade.
 
